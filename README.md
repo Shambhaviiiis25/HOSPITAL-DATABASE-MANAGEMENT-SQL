@@ -1,14 +1,17 @@
-Performed data cleaning for managing doctor details and identified and removed duplicate entries using SQL queries 
-Queried patient data for specific medical procedures like plastic surgery, joining relevant tables to extract detailed information.
-Analyzed appointment data across multiple years (2020-2023) to calculate yearly appointment volumes.
-Identified top 5 billing items based on total amount using aggregate functions and ordering results.
-Retrieved doctor details and their specializations, including contact information, for operational analysis.
-Analyzed appointment data for a specific doctor, extracting relevant details for performance review.
-Counted the number of appointments made by each patient, identifying frequent patients.
-Queried patient appointment data from the last month for follow-up analysis and operational insights.
-Analyzed doctor appointment volumes, counting the total number of appointments per doctor.
-Identified the number of unique medical procedures performed for each patient across appointments.
-Calculated average billing amounts for patients undergoing specific medical procedures.
-Examined billing trends over the years (2020-2023) to track changes in billing amounts.
-Identified repeat customers across all four years (2020-2023), providing insights into customer retention.
-Analyzed new customers who only visited in 2023 and were not repeated in prior years, offering insights into patient acquisition trends.
+Hospital Management System Data Analysis
+In this project, I analyzed hospital management data to provide operational insights:
+
+Data Cleaning: Removed duplicate doctor entries using SQL queries.
+Medical Procedure Analysis: Queried patient data for specific procedures like plastic surgery.
+Appointment Volumes: Analyzed appointment data (2020-2023) to calculate yearly volumes.
+Top Billing Items: Identified top 5 billing items based on total revenue.
+Doctor Details: Retrieved doctor specializations and contact information.
+Doctor Performance: Analyzed appointment data for individual doctors.
+Patient Frequency: Counted appointments per patient to identify frequent visitors.
+Monthly Follow-up: Queried last month’s appointment data for follow-up insights.
+Doctor Appointment Volume: Analyzed total appointments per doctor.
+Procedure Frequency: Identified unique procedures performed for each patient.
+Billing Analysis: Calculated average billing for specific procedures.
+Billing Trends: Examined billing trends over 2020-2023.
+Customer Retention: Identified repeat customers across 2020-2023.
+New Patients: Analyzed new patients in 2023 not seen in prior years.
